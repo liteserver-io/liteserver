@@ -1,8 +1,8 @@
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="liteserver.png">
-  <source media="(prefers-color-scheme: dark)" srcset="liteserver.png">
+ <source media="(prefers-color-scheme: light)" srcset="sqlited-logo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="sqlited-logo.png">
  <p align="center">
-   <img alt="zitdb logo" src="liteserver.png" width="400px">
+   <img alt="zitdb logo" src="sqlited-logo.png">
  </p>
 </picture>
 <br>
