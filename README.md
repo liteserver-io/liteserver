@@ -1,12 +1,9 @@
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="sqlited-logo.png">
-  <source media="(prefers-color-scheme: dark)" srcset="sqlited-logo.png">
  <p align="center">
-   <img alt="zitdb logo" src="sqlited-logo.png">
+   <img alt="sqlited logo" src="sqlited-logo.png">
  </p>
 </picture>
 <br>
-
 
 [![Experimental](https://img.shields.io/badge/status-experimental-orange.svg)](https://shields.io/)
 [![CI](https://github.com/kqlite/kqlite/actions/workflows/ci.yml/badge.svg)](https://github.com/kqlite/kqlite/actions/workflows/go.yml) 
