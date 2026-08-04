@@ -1,5 +1,5 @@
-<p align="center">
-  <img src='sqlited-logo.png?raw=true'>
+<p>
+  <img src='sqlited-logo.png?raw=true', width="300px">
 </p>
 
 
