@@ -1,7 +1,4 @@
-<p>
-  <img src='sqlited-logo.png?raw=true', width="300px">
-</p>
-
+<img src="sqlited-logo.png" width="30%" alt="sqlited logo">
 
 [![Experimental](https://img.shields.io/badge/status-experimental-orange.svg)](https://shields.io/)
 [![CI](https://github.com/kqlite/kqlite/actions/workflows/ci.yml/badge.svg)](https://github.com/kqlite/kqlite/actions/workflows/go.yml) 
